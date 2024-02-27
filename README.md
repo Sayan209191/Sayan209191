@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sayan Ghorui, a passionate computer science enthusiast currently pursuing a B.Tech in Computer Science. I have a strong interest in software development, coding, and technology. I enjoy exploring new programming languages, and continuously expanding my knowledge in the world of computer science. 
+I am Sayan Ghorui, former Intern at Codeclouds a passionate computer science enthusiast currently pursuing a B.Tech in Computer Science. I have a strong interest in software development, coding, and technology. I enjoy exploring new programming languages, and continuously expanding my knowledge in the world of computer science.
 
 
 ## 🌐 Socials:
