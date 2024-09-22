@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghorui</h1>
 <h3 align="center">Hey there , I am Sayan Ghorui, a passionate computer science enthusiast , a highly motivated and skilled backend developer with a strong background in Java, Python, Django, MySQL, and HTML currently pursuing a B.Tech in Computer Science and 4 months of valuable internship experience in the field, I am confident in my abilities to deliver exceptional results in any project I take on.
 
-During my 4-month internship at Codeclouds IT Solution, I had the opportunity to work on various backend development projects using Django. This experience has honed my skills and provided me with hands-on experience in creating efficient and scalable applications.
-
-With a passion for coding and problem-solving, I thrive in fast-paced work environments and enjoy taking on new challenges. My attention to detail and ability to work well in a team have allowed me to deliver high-quality work within tight deadlines.
-
-One of my most notable accomplishments is securing the rank 1 position in the university at Greek for Greeks. 
-My strong industry knowledge in backend development coupled with my diverse skillset and continuous drive for learning sets me apart from others in the field. I am always looking for new opportunities to expand my abilities and contribute to the growth of any organization I am a part of.
-
-In the future, I aim to further enhance my skills and knowledge in Software development, specifically in Java and Python. I am also interested in exploring new technologies and staying updated with the latest industry trends.</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan209191&label=Profile%20views&color=0e75b6&style=flat" alt="sayan209191" /> </p>
 
