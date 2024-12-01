@@ -15,7 +15,7 @@
 
 <h3 align="left">## 🌐 Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/sayanghorui031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayanghorui031" height="30" width="40" /></a>
+<a href="https://twitter.com/sayan031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan031" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayan-ghorui-499a35238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-ghorui-499a35238" height="30" width="40" /></a>
 <a href="https://fb.com/sayan.ghorui.5492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan.ghorui.5492" height="30" width="40" /></a>
 <a href="https://instagram.com/sayan_031_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_031_" height="30" width="40" /></a>
