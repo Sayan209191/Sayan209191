@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan209191" alt="sayan209191" /></a> </p> <br/>
 
-<p align="left"> <a href="https://twitter.com/sayanghorui031" target="blank"><img src="https://img.shields.io/twitter/follow/sayanghorui031?logo=twitter&style=for-the-badge" alt="sayanghorui031" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sayan031" target="blank"><img src="https://img.shields.io/twitter/follow/sayanghorui031?logo=twitter&style=for-the-badge" alt="sayanghorui031" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS , Express JS , MongoDB**
 
