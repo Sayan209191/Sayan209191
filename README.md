@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghorui</h1>
-<h3 align="center">Hey there , I am Sayan Ghorui, a passionate computer science enthusiast , a highly motivated and skilled backend developer with a strong background in Java, Python, Django, MySQL, and HTML currently pursuing a B.Tech in Computer Science and 4 months of valuable internship experience in the field, I am confident in my abilities to deliver exceptional results in any project I take on.
+<h3 align="center">Hey there , I am Sayan Ghorui, Working in ICRA Analytics LTD as Junior Software Developer , a passionate computer science enthusiast , a highly motivated and skilled backend developer with a strong background in Java, Python, Django, MySQL, and HTML currently pursuing a B.Tech in Computer Science and 4 months of valuable internship experience in the field, I am confident in my abilities to deliver exceptional results in any project I take on.
 
 </h3>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayan031" target="blank"><img src="https://img.shields.io/twitter/follow/sayan031?logo=twitter&style=for-the-badge" alt="sayan031" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS , Express JS , MongoDB**
+- 🌱 I’m currently learning **C# , ASP .Net , ADO .Net,  Microsoft SQL Server, Oracel, Selenium**
 
 - 📫 How to reach me **sayanghorui747@gmail.com**
 
