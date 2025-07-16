@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghorui</h1>
-<h3 align="center">Hey there , I am Sayan Ghorui, Working in ICRA Analytics LTD as Junior Software Developer , a passionate computer science enthusiast , a highly motivated and skilled backend developer with a strong background in Java, Python, Django, MySQL, and HTML currently pursuing a B.Tech in Computer Science and 4 months of valuable internship experience in the field, I am confident in my abilities to deliver exceptional results in any project I take on.
+<h3 align="center">I am currently employed at ICRA Analytics LTD as a Junior Software Developer. With a strong background in Java, Python, Django, MySQL, .NET, and Oracle, I am passionate about computer science and dedicated to delivering exceptional results in every project I undertake. I recently graduated with a B.Tech in Computer Science from Brainware University.
 
 </h3>
 
